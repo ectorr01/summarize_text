@@ -41,6 +41,15 @@ Make sure you have Python 3.8+ installed. You'll also need pip to install depend
    pip install -r requirements.txt
    ```
 
+## 📁 Templates Setup
+
+This project uses **Jinja2 templates** for rendering HTML pages. You need to create a folder named `templates` in the root directory and add the following HTML files:
+
+### Required Template Files
+
+1. **`templates/form.html`** – The form where users input text.
+2. **`templates/result.html`** – Displays the summarized result.
+
 ### Run the Application
 
 Start the FastAPI development server:
