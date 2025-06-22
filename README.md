@@ -26,8 +26,8 @@ Make sure you have Python 3.8+ installed. You'll also need pip to install depend
 
   1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/ectorr01/summarize_text.git
+   cd summarize_text
    ```
 
   2. (Optional) Create and activate a virtual environment:
